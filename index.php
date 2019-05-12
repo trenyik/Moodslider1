@@ -108,8 +108,8 @@
                     if (moodValue !== "neutral") {
                         //choose and gets movies based on slider tag in xml where it's value = moodValue eg.happy
                         var xmlPath = "//*[slider ='" + moodValue + "']";
-                        var nodes = xml.evaluate(xmlPath, xml, null, XPathResult.ANY_TYPE, null);
-                        var movies = nodes.iterateNext();
+                        var xpathResult = xml.evaluate(xmlPath, xml, null, XPathResult.ANY_TYPE, null);
+                        var movies = xpathResult.iterateNext();
                         //choose 5 of the movies with while loop and display when id = card 
                         while (movies && i < 6) {
                             var img = movies.getElementsByTagName("img")[0].childNodes[0].nodeValue;
@@ -117,7 +117,7 @@
                             var cardId = "card" + i;
                             //img path from xml wil be put into src where id=cardId
                             document.getElementById(cardId).src = img;
-                            movies = nodes.iterateNext();
+                            movies = xpathResult.iterateNext();
                             i++;
                         }
                     }

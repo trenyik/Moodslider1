@@ -1,0 +1,228 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<movies>
+    <movie id = "1">
+        <title>Oblivion</title>
+        <img>movies/Oblivion.jpg</img>
+        <slider>fearless</slider>
+        <slider>agitated</slider>
+        <slider>calm</slider>
+        <slider>happy</slider>
+    </movie>
+    <movie id = "2">
+        <title>Peter Rabbit</title>
+        <img>movies/PeterRabbit.jpg</img>
+        <slider>sad</slider>
+        <slider>agitated</slider>
+        <slider>tired</slider>
+        <slider>happy</slider>
+    </movie>
+    <movie id = "3">
+        <title>Hell Boy</title>
+        <img>movies/hellboy.jpg</img>
+        <slider>agitated</slider>
+        <slider>wide awake</slider>
+        <slider>scared</slider>
+        <slider>happy</slider>
+    </movie>
+    <movie id = "4">
+        <title>Planet Earth</title>
+        <img>movies/PlanetEarth.jpg</img>
+        <slider>sad</slider>
+        <slider>calm</slider>
+        <slider>agitated</slider>
+        <slider>tired</slider>
+    </movie>
+    <movie id = "5">
+        <title>Bumble Bee</title>
+        <img>movies/BumbleBee.jpg</img>
+        <slider>tired</slider>
+        <slider>happy</slider>
+        <slider>agitated</slider>
+        <slider>sad</slider>
+    </movie>
+    <movie id = "6">
+        <title>The Godfather</title>
+        <img>movies/thegodfather.jpg</img>
+        <slider>fearless</slider>
+        <slider>happy</slider>
+        <slider>wide awake</slider>
+        <slider>scared</slider>
+    </movie>
+    <movie id = "7">
+        <title>Pulp Fiction</title>
+        <img>movies/pulpfiction.jpg</img>
+        <slider>scared</slider>
+        <slider>fearless</slider>
+        <slider>agitated</slider>
+        <slider>tired</slider>
+    </movie>
+    <movie id = "8">
+        <title>Gladiator</title>
+        <img>movies/gladiator.jpg</img>
+        <slider>happy</slider>
+        <slider>fearless</slider>
+        <slider>agitated</slider>
+        <slider>wide awake</slider>
+    </movie>
+    <movie id = "9">
+        <title>Toy Story</title>
+        <img>movies/toystory.jpg</img>
+        <slider>tired</slider>
+        <slider>fearless</slider>
+        <slider>sad</slider>
+        <slider>scared</slider>
+    </movie>
+    <movie id = "10">
+        <title>Jungle Book</title>
+        <img>movies/junglebook.jpg</img>
+        <slider>scared</slider>
+        <slider>calm</slider>
+        <slider>fearless</slider>
+        <slider>happy</slider>
+    </movie>
+    <movie id = "11">
+        <title>King Kong</title>
+        <img>movies/kingkong.jpg</img>
+        <slider>scared</slider>
+        <slider>calm</slider>
+        <slider>fearless</slider>
+        <slider>sad</slider>
+    </movie>
+    <movie id = "12">
+        <title>Terminator</title>
+        <img>movies/terminator.jpg</img>
+        <slider>happy</slider>
+        <slider>calm</slider>
+        <slider>scared</slider>
+        <slider>agitated</slider>
+    </movie>
+    <movie id = "13">
+        <title>Captain Marvel</title>
+        <img>movies/captainmarvel.jpg</img>
+        <slider>tired</slider>
+        <slider>happy</slider>
+        <slider>scared</slider>
+        <slider>sad</slider>
+    </movie>
+    <movie id = "14">
+        <title>Incredibles</title>
+        <img>movies/incredibles.jpg</img>
+        <slider>scared</slider>
+        <slider>agitated</slider>
+        <slider>wide awake</slider>
+        <slider>fearless</slider>
+    </movie>
+    <movie id = "15">
+        <title>Aquaman</title>
+        <img>movies/aquaman.jpg</img>
+        <slider>scared</slider>
+        <slider>wide awake</slider>
+        <slider>calm</slider>
+        <slider>tired</slider>
+    </movie>
+    <movie id = "16">
+        <title>LaLaland</title>
+        <img>movies/lalaland.jpg</img>
+        <slider>scared</slider>
+        <slider>wide awake</slider>
+        <slider>calm</slider>
+        <slider>happy</slider>
+    </movie>
+    <movie id = "17">
+        <title>Batman</title>
+        <img>movies/batman.jpg</img>
+        <slider>tired</slider>
+        <slider>scared</slider>
+        <slider>happy</slider>
+        <slider>agitated</slider>
+    </movie>
+    <movie id = "18">
+        <title>Hannibal</title>
+        <img>movies/hannibal.jpg</img>
+        <slider>wide awake</slider>
+        <slider>agitated</slider>
+        <slider>scared</slider>
+        <slider>happy</slider>
+    </movie>
+    <movie id = "19">
+        <title>Mad Max</title>
+        <img>movies/madmax.jpg</img>
+        <slider>scared</slider>
+        <slider>wide awake</slider>
+        <slider>sad</slider>
+        <slider>calm</slider>
+    </movie>
+    <movie id = "20">
+        <title>Fight Club</title>
+        <img>movies/fightclub.jpg</img>
+        <slider>scared</slider>
+        <slider>wide awake</slider>
+        <slider>happy</slider>
+        <slider>calm</slider>
+    </movie>
+    <movie id = "21">
+        <title>Limitless</title>
+        <img>movies/limitless.jpg</img>
+        <slider>scared</slider>
+        <slider>calm</slider>
+        <slider>wide awake</slider>
+        <slider>happy</slider>
+    </movie>
+    <movie id = "22">
+        <title>Happy</title>
+        <img>movies/Happy_film.jpg</img>
+        <slider>tired</slider>
+        <slider>scared</slider>
+        <slider>calm</slider>
+        <slider>sad</slider>
+    </movie>
+    <movie id = "23">
+        <title>X-men</title>
+        <img>movies/xmen.jpg</img>
+        <slider>scared</slider>
+        <slider>tired</slider>
+        <slider>wide awake</slider>
+        <slider>agitated</slider>
+    </movie>
+    <movie id = "24">
+        <title>Up</title>
+        <img>movies/up.jpg</img>
+        <slider>scared</slider>
+        <slider>agitated</slider>
+        <slider>tired</slider>
+        <slider>happy</slider>
+    </movie>
+    <movie id = "25">
+        <title>Black Swan</title>
+        <img>movies/blackswan.jpg</img>
+        <slider>happy</slider>
+        <slider>sad</slider>
+        <slider>agitated</slider>
+        <slider>scared</slider>
+    </movie>
+    <movie id = "26">
+        <title>Game of thrones</title>
+        <img>movies/gameofthrones.jpg</img>
+        <slider>scared</slider>
+        <slider>wide awake</slider>
+        <slider>calm</slider>
+        <slider>happy</slider>
+    </movie>
+    <movie id = "27">
+        <title>Harry Potter</title>
+        <img>movies/harrypotter.jpg</img>
+        <slider>sad</slider>
+        <slider>tired</slider>
+        <slider>agitated</slider>
+        <slider>wide awake</slider>
+    </movie>
+    <movie id = "28">
+        <title>Inferno</title>
+        <img>movies/inferno.jpg</img>
+        <slider>tired</slider>
+        <slider>calm</slider>
+        <slider>agitated</slider>
+        <slider>happy</slider>
+    </movie>
+</movies>
+
